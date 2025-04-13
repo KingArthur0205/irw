@@ -1,0 +1,733 @@
+"table","Reference","DOI","Description","URL..for.data.","BibTex"
+"approaches_to_text_study1","Calloway RC, Helder A, Perfetti CA. Study 1 TReATQ, RH, NFC Raw Data [data set] from ""A measure of individual differences in readers' approaches to text and its relation to reading experience and reading comprehension"". Behav Res Methods. 2023 Feb;55(2):899-931. https://osf.io/e7xpy/?view_only=0b3180a18cd94803a7c743096c95dd79",NA,"Item responses for study 1 of the Approaches to Text Questionnaire wherein participants completed survey items to the 87-item TReAT-Q, need for cognition, and a subset of questions from the adult reading history questionnaire","https://osf.io/e7xpy/?view_only=0b3180a18cd94803a7c743096c95dd79","@article{Calloway2023,
+  author = {Calloway, R. C. and Helder, A. and Perfetti, C. A.},
+  title = {Study 1 TReATQ, RH, NFC Raw Data [data set] from ""A measure of individual differences in readers' approaches to text and its relation to reading experience and reading comprehension""},
+  journal = {Behavior Research Methods},
+  year = {2023},
+  month = {February},
+  volume = {55},
+  number = {2},
+  pages = {899--931},
+  url = {https://osf.io/e7xpy/?view_only=0b3180a18cd94803a7c743096c95dd79},
+  note = {Item responses for study 1 of the Approaches to Text Questionnaire wherein participants completed survey items to the 87-item TReAT-Q, need for cognition, and a subset of questions from the adult reading history questionnaire}
+}"
+"approaches_to_text_study2","Calloway RC, Helder A, Perfetti CA. Study 2 Data [data set] from ""A measure of individual differences in readers' approaches to text and its relation to reading experience and reading comprehension"". Behav Res Methods. 2023 Feb;55(2):899-931. https://osf.io/e7xpy/?view_only=0b3180a18cd94803a7c743096c95dd79",NA,"Item responses for study 2 of Approaches to Text wherein participants completed a host of surveys, which collected items on participants' comprehension, vocabulary, reading history, author recognition, etc","https://osf.io/e7xpy/?view_only=0b3180a18cd94803a7c743096c95dd80","@article{Calloway2023,
+  author = {Calloway, R. C. and Helder, A. and Perfetti, C. A.},
+  title = {Study 2 Data [data set] from ""A measure of individual differences in readers' approaches to text and its relation to reading experience and reading comprehension""},
+  journal = {Behavior Research Methods},
+  year = {2023},
+  month = {February},
+  volume = {55},
+  number = {2},
+  pages = {899--931},
+  url = {https://osf.io/e7xpy/?view_only=0b3180a18cd94803a7c743096c95dd79},
+  note = {Item responses for study 2 of Approaches to Text wherein participants completed a host of surveys, which collected items on participants' comprehension, vocabulary, reading history, author recognition, etc}
+}"
+"assistments_0910",NA,NA,"Response data for skill-building and non-skill-building items from ASSISTments. Data from SY 2009-10","https://sites.google.com/site/assistmentsdata/home/2009-2010-assistment-data","@misc{assistments_0910,
+  title = {Response data for skill-building and non-skill-building items from ASSISTments},
+  year = {2009},
+  note = {Data from SY 2009-10},
+  url = {https://sites.google.com/site/assistmentsdata/home/2009-2010-assistment-data},
+  author = {NA}
+}"
+"assistments_1213",NA,NA,"Response data for items from ASSISTments. Data from SY 2012-13","https://sites.google.com/site/assistmentsdata/datasets/2012-13-school-data-with-affect","@misc{assistments_1213,
+  title = {Response data for items from ASSISTments},
+  year = {2012},
+  note = {Data from SY 2012-13},
+  url = {https://sites.google.com/site/assistmentsdata/datasets/2012-13-school-data-with-affect},
+  howpublished = {ASSISTments Dataset}
+}"
+"assistments_1516",NA,NA,"Response data for items from ASSISTments. Data from SY 2015-16","https://sites.google.com/site/assistmentsdata/datasets/2015-assistments-skill-builder-data","@misc{assistments_1516,
+  title = {Response data for items from ASSISTments},
+  year = {2015},
+  note = {Data from SY 2015-16},
+  url = {https://sites.google.com/site/assistmentsdata/datasets/2015-assistments-skill-builder-data},
+  howpublished = {ASSISTments Dataset}
+}"
+"assistments_2017",NA,NA,"Response data for items from ASSISTments. Data from ASSISTments Data Mining Competition 2017
+","https://sites.google.com/view/assistmentsdatamining/dataset","@misc{assistments_2017,
+  title = {Response data for items from ASSISTments},
+  year = {2017},
+  note = {Data from ASSISTments Data Mining Competition 2017},
+  url = {https://sites.google.com/view/assistmentsdatamining/dataset}
+}"
+"blocked_interleaved_instruction","Patel, R., Liu, R., Koedinger, K. (2017) Dissertation data [dataset]. DataShop @ CMU. https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=1190",NA,"Items from a study testing difference between blocked and interleaved instruction for fraction addition and multiplication","https://pslcdatashop.web.cmu.edu/Files?datasetId=1190","@misc{patel2017,
+  author = {Patel, R. and Liu, R. and Koedinger, K.},
+  title = {Dissertation data},
+  year = {2017},
+  howpublished = {DataShop @ CMU},
+  url = {https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=1190},
+  note = {Items from a study testing difference between blocked and interleaved instruction for fraction addition and multiplication}
+}"
+"bpi_mplus","Kim, M., Winkler, C., & Talley, S. (2021). Binary item CFA of Behavior Problem Index (BPI) using Mplus: A step-by-step tutorial. The Quantitative Methods for Psychology, 17, 141-153.","10.20982/tqmp.17.2.p141","Behavior problems index from NLSY","https://www.tqmp.org/RegularArticles/vol17-2/p141/"," @article{Kim_2021, title={Binary item CFA of Behavior Problem Index (BPI) using Mplus: A step-by-step tutorial}, volume={17}, ISSN={2292-1354}, url={http://dx.doi.org/10.20982/tqmp.17.2.p141}, DOI={10.20982/tqmp.17.2.p141}, number={2}, journal={The Quantitative Methods for Psychology}, publisher={The Quantitative Methods for Psychology}, author={Kim, Minjung and Winkler, Christa and Talley, Susan}, year={2021}, month=jun, pages={141–153} }
+"
+"chemistry_tutor","Rau, M. A., Zahn, M., Misback, E., Herder, T., & Burstyn, J. (2021). Adaptive support for representational competencies during technology-based problem solving in chemistry [data set]. Journal of the Learning Sciences. doi:10.1080/10508406.2021.1888733","10.1080/10508406.2021.1888733","Over 10-week sequence of problem-solving activities, undergraduate students received either (1) fixed sequence of sense-making support and perceptual-fluency, or (2) adaptively assigned supports based on solving interactions. Findings were used to understand which intervention helped facilitate reduced confusion and mistake-making while problem solving in chemistry","https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=4666"," @article{Rau_2021, title={Adaptive support for representational competencies during technology-based problem solving in chemistry}, volume={30}, ISSN={1532-7809}, url={http://dx.doi.org/10.1080/10508406.2021.1888733}, DOI={10.1080/10508406.2021.1888733}, number={2}, journal={Journal of the Learning Sciences}, publisher={Informa UK Limited}, author={Rau, Martina A. and Zahn, Miranda and Misback, Edward and Herder, Tiffany and Burstyn, Judith}, year={2021}, month=mar, pages={163–203} }
+"
+"chinese_vocabulary_learning","Pavlik, P. (2011). Motivation and Metacognition in Chinese Vocabulary Learning, Experiment 4 [data set]. DataShop @ CMU. https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=459
+",NA,"Likert scale items evaluating students' Chinese language learning strategies","https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=459","@misc{Pavlik2011,
+  author = {Pavlik, P.},
+  title = {Motivation and Metacognition in Chinese Vocabulary Learning, Experiment 4},
+  year = {2011},
+  note = {Data set},
+  howpublished = {DataShop @ CMU},
+  url = {https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=459}
+}"
+"cmu_algebra_2006","Stamper, J., Niculescu-Mizil, A., Ritter, S., Gordon, G.J., & Koedinger, K.R. (2010). Algebra I 2005-2006. Development data set from KDD Cup 2010 Educational Data Mining Challenge. Find it at http://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp",NA,"Data on student performance on math items from an intelligent tutoring system","https://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp","@inproceedings{stamper2010algebra,
+  author = {Stamper, J. and Niculescu-Mizil, A. and Ritter, S. and Gordon, G.J. and Koedinger, K.R.},
+  title = {Algebra I 2005-2006},
+  booktitle = {Development data set from KDD Cup 2010 Educational Data Mining Challenge},
+  year = {2010},
+  url = {https://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp},
+  note = {Data on student performance on math items from an intelligent tutoring system}
+}"
+"cmu_algebra_2007","Stamper, J., Niculescu-Mizil, A., Ritter, S., Gordon, G.J., & Koedinger, K.R. (2010). Algebra I 2006-2007. Development data set from KDD Cup 2010 Educational Data Mining Challenge. Find it at http://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp",NA,"Data on student performance on math items from an intelligent tutoring system","https://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp","@inproceedings{Stamper2010,
+  author = {Stamper, J. and Niculescu-Mizil, A. and Ritter, S. and Gordon, G.J. and Koedinger, K.R.},
+  title = {Algebra I 2006-2007},
+  booktitle = {Development data set from KDD Cup 2010 Educational Data Mining Challenge},
+  year = {2010},
+  url = {https://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp},
+  note = {Data on student performance on math items from an intelligent tutoring system}
+}"
+"cmu_algebra_2009","Stamper, J., Niculescu-Mizil, A., Ritter, S., Gordon, G.J., & Koedinger, K.R. (2010). Algebra I 2008-2009. Challenge data set from KDD Cup 2010 Educational Data Mining Challenge. Find it at http://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp",NA,"Data on student performance on math items from an intelligent tutoring system","https://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp","@inproceedings{stamper2010algebra,
+  author = {Stamper, J. and Niculescu-Mizil, A. and Ritter, S. and Gordon, G.J. and Koedinger, K.R.},
+  title = {Algebra I 2008-2009},
+  booktitle = {Challenge data set from KDD Cup 2010 Educational Data Mining Challenge},
+  year = {2010},
+  url = {https://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp},
+  note = {Data on student performance on math items from an intelligent tutoring system}
+}"
+"cmu_bridging_algebra_2007","Stamper, J., Niculescu-Mizil, A., Ritter, S., Gordon, G.J., & Koedinger, K.R. (2010). Bridge to Algebra 2006-2007. Development data set from KDD Cup 2010 Educational Data Mining Challenge. Find it at http://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp",NA,"Data on student performance on math items from an intelligent tutoring system","https://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp","@inproceedings{Stamper2010,
+  author = {Stamper, J. and Niculescu-Mizil, A. and Ritter, S. and Gordon, G.J. and Koedinger, K.R.},
+  title = {Bridge to Algebra 2006-2007},
+  booktitle = {Development data set from KDD Cup 2010 Educational Data Mining Challenge},
+  year = {2010},
+  url = {https://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp},
+  note = {Data on student performance on math items from an intelligent tutoring system}
+}"
+"cmu_bridging_algebra_2009","Stamper, J., Niculescu-Mizil, A., Ritter, S., Gordon, G.J., & Koedinger, K.R. (2010). Bridge to Algebra 2008-2009. Challenge data set from KDD Cup 2010 Educational Data Mining Challenge. Find it at http://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp",NA,"Data on student performance on math items from an intelligent tutoring system","https://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp","@inproceedings{Stamper2010,
+  author = {Stamper, J. and Niculescu-Mizil, A. and Ritter, S. and Gordon, G.J. and Koedinger, K.R.},
+  title = {Bridge to Algebra 2008-2009},
+  booktitle = {Challenge data set from KDD Cup 2010 Educational Data Mining Challenge},
+  year = {2010},
+  url = {https://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp},
+  note = {Data on student performance on math items from an intelligent tutoring system}
+}"
+"coomansaddition","Coomans, F., Hofman, A., Brinkhuis, M., van der Maas, H. L., & Maris, G. (2016). Distinguishing fast and slow processes in accuracy-response time data. PloS one, 11(5), e0155149.","10.1371/journal.pone.0155149","Arithmetic items from MathGarden","https://osf.io/pbuvj/files/osfstorage"," @article{Coomans_2016, title={Distinguishing Fast and Slow Processes in Accuracy - Response Time Data}, volume={11}, ISSN={1932-6203}, url={http://dx.doi.org/10.1371/journal.pone.0155149}, DOI={10.1371/journal.pone.0155149}, number={5}, journal={PLOS ONE}, publisher={Public Library of Science (PLoS)}, author={Coomans, Frederik and Hofman, Abe and Brinkhuis, Matthieu and van der Maas, Han L. J. and Maris, Gunter}, editor={Eriksson, Kimmo}, year={2016}, month=may, pages={e0155149} }
+"
+"coomansdivision","Coomans, F., Hofman, A., Brinkhuis, M., van der Maas, H. L., & Maris, G. (2016). Distinguishing fast and slow processes in accuracy-response time data. PloS one, 11(5), e0155149.","10.1371/journal.pone.0155149","Arithmetic items from MathGarden","https://osf.io/pbuvj/files/osfstorage"," @article{Coomans_2016, title={Distinguishing Fast and Slow Processes in Accuracy - Response Time Data}, volume={11}, ISSN={1932-6203}, url={http://dx.doi.org/10.1371/journal.pone.0155149}, DOI={10.1371/journal.pone.0155149}, number={5}, journal={PLOS ONE}, publisher={Public Library of Science (PLoS)}, author={Coomans, Frederik and Hofman, Abe and Brinkhuis, Matthieu and van der Maas, Han L. J. and Maris, Gunter}, editor={Eriksson, Kimmo}, year={2016}, month=may, pages={e0155149} }
+"
+"coomansletterchaos","Coomans, F., Hofman, A., Brinkhuis, M., van der Maas, H. L., & Maris, G. (2016). Distinguishing fast and slow processes in accuracy-response time data. PloS one, 11(5), e0155149.","10.1371/journal.pone.0155149","Tasks from game ""Letter Chaos""","https://osf.io/pbuvj/files/osfstorage"," @article{Coomans_2016, title={Distinguishing Fast and Slow Processes in Accuracy - Response Time Data}, volume={11}, ISSN={1932-6203}, url={http://dx.doi.org/10.1371/journal.pone.0155149}, DOI={10.1371/journal.pone.0155149}, number={5}, journal={PLOS ONE}, publisher={Public Library of Science (PLoS)}, author={Coomans, Frederik and Hofman, Abe and Brinkhuis, Matthieu and van der Maas, Han L. J. and Maris, Gunter}, editor={Eriksson, Kimmo}, year={2016}, month=may, pages={e0155149} }
+"
+"coomansmultiplication","Coomans, F., Hofman, A., Brinkhuis, M., van der Maas, H. L., & Maris, G. (2016). Distinguishing fast and slow processes in accuracy-response time data. PloS one, 11(5), e0155149.","10.1371/journal.pone.0155149","Arithmetic items from MathGarden","https://osf.io/pbuvj/files/osfstorage"," @article{Coomans_2016, title={Distinguishing Fast and Slow Processes in Accuracy - Response Time Data}, volume={11}, ISSN={1932-6203}, url={http://dx.doi.org/10.1371/journal.pone.0155149}, DOI={10.1371/journal.pone.0155149}, number={5}, journal={PLOS ONE}, publisher={Public Library of Science (PLoS)}, author={Coomans, Frederik and Hofman, Abe and Brinkhuis, Matthieu and van der Maas, Han L. J. and Maris, Gunter}, editor={Eriksson, Kimmo}, year={2016}, month=may, pages={e0155149} }
+"
+"coomansset","Coomans, F., Hofman, A., Brinkhuis, M., van der Maas, H. L., & Maris, G. (2016). Distinguishing fast and slow processes in accuracy-response time data. PloS one, 11(5), e0155149.","10.1371/journal.pone.0155149","Tasks from game ""Set""","https://osf.io/pbuvj/files/osfstorage"," @article{Coomans_2016, title={Distinguishing Fast and Slow Processes in Accuracy - Response Time Data}, volume={11}, ISSN={1932-6203}, url={http://dx.doi.org/10.1371/journal.pone.0155149}, DOI={10.1371/journal.pone.0155149}, number={5}, journal={PLOS ONE}, publisher={Public Library of Science (PLoS)}, author={Coomans, Frederik and Hofman, Abe and Brinkhuis, Matthieu and van der Maas, Han L. J. and Maris, Gunter}, editor={Eriksson, Kimmo}, year={2016}, month=may, pages={e0155149} }
+"
+"coomanssubtraction","Coomans, F., Hofman, A., Brinkhuis, M., van der Maas, H. L., & Maris, G. (2016). Distinguishing fast and slow processes in accuracy-response time data. PloS one, 11(5), e0155149.","10.1371/journal.pone.0155149","Arithmetic items from MathGarden","https://osf.io/pbuvj/files/osfstorage"," @article{Coomans_2016, title={Distinguishing Fast and Slow Processes in Accuracy - Response Time Data}, volume={11}, ISSN={1932-6203}, url={http://dx.doi.org/10.1371/journal.pone.0155149}, DOI={10.1371/journal.pone.0155149}, number={5}, journal={PLOS ONE}, publisher={Public Library of Science (PLoS)}, author={Coomans, Frederik and Hofman, Abe and Brinkhuis, Matthieu and van der Maas, Han L. J. and Maris, Gunter}, editor={Eriksson, Kimmo}, year={2016}, month=may, pages={e0155149} }
+"
+"csedm_data_challenge_fall2019full","Rivers, K., Price, T. (2019). 2nd CSEDM Data Challenge - F19 All Data v1.0 [data set]. DataShop @ CMU. https://pslcdatashop.web.cmu.edu/Files?datasetId=2865",NA,"Additional item-level data from the 2019 CSEDM workshop released after challenge end","https://pslcdatashop.web.cmu.edu/Files?datasetId=3458","@misc{Rivers2019,
+  author = {Rivers, K. and Price, T.},
+  title = {2nd CSEDM Data Challenge - F19 All Data v1.0},
+  year = {2019},
+  note = {Data set},
+  howpublished = {DataShop @ CMU},
+  url = {https://pslcdatashop.web.cmu.edu/Files?datasetId=2865},
+  description = {Additional item-level data from the 2019 CSEDM workshop released after challenge end}
+}"
+"csedm_data_challenge_spring2019full","Rivers, K., Price, T. (2019). 2nd CSEDM Data Challenge - S19 All Data v1.0 [data set]. DataShop @ CMU. https://pslcdatashop.web.cmu.edu/Files?datasetId=2866",NA,"Additional item-level data from the 2019 CSEDM workshop released in Spring 2019","https://pslcdatashop.web.cmu.edu/Files?datasetId=3459","@misc{Rivers2019,
+  author = {Rivers, K. and Price, T.},
+  title = {2nd CSEDM Data Challenge - S19 All Data v1.0},
+  year = {2019},
+  note = {Data set},
+  publisher = {DataShop @ CMU},
+  url = {https://pslcdatashop.web.cmu.edu/Files?datasetId=2866}
+}"
+"csedm_data_challenge","Rivers, K., Price, T. (2019). CSEDM Data Challenge v1.1 (Updated 2019/01/29) [data set]. DataShop @ CMU. https://pslcdatashop.web.cmu.edu/Files?datasetId=2865",NA,"Programming IRW and process data from the 2019 Education Data Mining in Computer Science Education workshop","https://pslcdatashop.web.cmu.edu/Files?datasetId=2865","@misc{Rivers2019,
+  author = {Rivers, K. and Price, T.},
+  title = {CSEDM Data Challenge v1.1 (Updated 2019/01/29)},
+  year = {2019},
+  note = {Programming IRW and process data from the 2019 Education Data Mining in Computer Science Education workshop},
+  howpublished = {DataShop @ CMU},
+  url = {https://pslcdatashop.web.cmu.edu/Files?datasetId=2865}
+}"
+"differences_spotting_study1","Liu, J., Shen, Q., Zhang, J. et al. UnsolvableItemsSelection_Raw_CombinedSampleN=131 [data set]. Behav Res 53, 1935–1944 (2021). https://doi.org/10.3758/s13428-020-01526-w","10.3758/s13428-020-01526-w","Participants were asked to look at two similar pictures and identify (1) whether there were any differences between the photos, and (2) where the differences were. Participants were monetarily incentivized to spot the differences.","https://osf.io/s8qdk/"," @article{Liu_2021, title={The Difference Spotting Task: A new nonverbal measure of cheating behavior}, volume={53}, ISSN={1554-3528}, url={http://dx.doi.org/10.3758/s13428-020-01526-w}, DOI={10.3758/s13428-020-01526-w}, number={5}, journal={Behavior Research Methods}, publisher={Springer Science and Business Media LLC}, author={Liu, Jinting and Shen, Qiang and Zhang, Jieting and Beyens, Urielle and Cai, Wei and Decety, Jean and Li, Hong}, year={2021}, month=mar, pages={1935–1944} }
+"
+"differences_spotting_study2","Liu, J., Shen, Q., Zhang, J. et al. SolvableItemsSelection_Summary_CombinedSampleN=135 [data set]. Behav Res 53, 1935–1944 (2021). https://doi.org/10.3758/s13428-020-01526-w","10.3758/s13428-020-01526-w","Similar to study 1, participants were asked to identify areas of difference between two photos. Unlike study 1, there was no opportunity to cheat. Participants were monetarily incentivized to spot the differences.","https://osf.io/s8qdk/"," @article{Liu_2021, title={The Difference Spotting Task: A new nonverbal measure of cheating behavior}, volume={53}, ISSN={1554-3528}, url={http://dx.doi.org/10.3758/s13428-020-01526-w}, DOI={10.3758/s13428-020-01526-w}, number={5}, journal={Behavior Research Methods}, publisher={Springer Science and Business Media LLC}, author={Liu, Jinting and Shen, Qiang and Zhang, Jieting and Beyens, Urielle and Cai, Wei and Decety, Jean and Li, Hong}, year={2021}, month=mar, pages={1935–1944} }
+"
+"differences_spotting_study3_die","Liu, J., Shen, Q., Zhang, J. et al. DieGuessingTask_Raw [data set]. Behav Res 53, 1935–1944 (2021). https://doi.org/10.3758/s13428-020-01526-w","10.3758/s13428-020-01526-w","Participants watched a die tossing video and asked to predict in advance which numbers the die would land on. Responses record whether their predictions were correct. Participants were monetarily incentivized to spot the differences.","https://osf.io/s8qdk/"," @article{Liu_2021, title={The Difference Spotting Task: A new nonverbal measure of cheating behavior}, volume={53}, ISSN={1554-3528}, url={http://dx.doi.org/10.3758/s13428-020-01526-w}, DOI={10.3758/s13428-020-01526-w}, number={5}, journal={Behavior Research Methods}, publisher={Springer Science and Business Media LLC}, author={Liu, Jinting and Shen, Qiang and Zhang, Jieting and Beyens, Urielle and Cai, Wei and Decety, Jean and Li, Hong}, year={2021}, month=mar, pages={1935–1944} }
+"
+"differences_spotting_study3_dots","Liu, J., Shen, Q., Zhang, J. et al. DotsTask_Raw [data set]. Behav Res 53, 1935–1944 (2021). https://doi.org/10.3758/s13428-020-01526-w","10.3758/s13428-020-01526-w","Participants were presented with a square bisected by a vertical line. Each side of the line had a certain number of dots, and participants were asked to identify which side had more dots. They were told that it was more difficult to assess the number of dots on the left side, and so the monetary reward for guessing the left panel was higher","https://osf.io/s8qdk/"," @article{Liu_2021, title={The Difference Spotting Task: A new nonverbal measure of cheating behavior}, volume={53}, ISSN={1554-3528}, url={http://dx.doi.org/10.3758/s13428-020-01526-w}, DOI={10.3758/s13428-020-01526-w}, number={5}, journal={Behavior Research Methods}, publisher={Springer Science and Business Media LLC}, author={Liu, Jinting and Shen, Qiang and Zhang, Jieting and Beyens, Urielle and Cai, Wei and Decety, Jean and Li, Hong}, year={2021}, month=mar, pages={1935–1944} }
+"
+"digital_games_kentucky","Lomas, D. (2011). Classroom: Exp1 - UCLA-Kentucky [dataset]. DataShop @ CMU. https://pslcdatashop.web.cmu.edu/Files?datasetId=445",NA,"Items from a digital games study to test the theory that fractions should be introduced to students mixed with whole numbers on the same line to demonstrate that they represent magnitudes of the same type of whole numbers","https://pslcdatashop.web.cmu.edu/Files?datasetId=445","@misc{lomas2011,
+  author = {Lomas, D.},
+  title = {Classroom: Exp1 - UCLA-Kentucky},
+  year = {2011},
+  howpublished = {Dataset},
+  publisher = {DataShop @ CMU},
+  url = {https://pslcdatashop.web.cmu.edu/Files?datasetId=445},
+  note = {Items from a digital games study to test the theory that fractions should be introduced to students mixed with whole numbers on the same line to demonstrate that they represent magnitudes of the same type of whole numbers}
+}"
+"duval4","Kyngdon, A. (2011). Plausible measurement analogies to some psychometric models of test performance. British Journal of Mathematical & Statistical Psychology, 64(3), 478–497.","10.1348/2044-8317.002004","Data from Lexile tasks given to 4th graders","n/a"," @article{Kyngdon_2010, title={Plausible measurement analogies to some psychometric models of test performance}, volume={64}, ISSN={2044-8317}, url={http://dx.doi.org/10.1348/2044-8317.002004}, DOI={10.1348/2044-8317.002004}, number={3}, journal={British Journal of Mathematical and Statistical Psychology}, publisher={Wiley}, author={Kyngdon, Andrew}, year={2010}, month=dec, pages={478–497} }
+"
+"duval8","Kyngdon, A. (2011). Plausible measurement analogies to some psychometric models of test performance. British Journal of Mathematical & Statistical Psychology, 64(3), 478–497.","10.1348/2044-8317.002004","Data from Lexile tasks given to 8th graders","n/a"," @article{Kyngdon_2010, title={Plausible measurement analogies to some psychometric models of test performance}, volume={64}, ISSN={2044-8317}, url={http://dx.doi.org/10.1348/2044-8317.002004}, DOI={10.1348/2044-8317.002004}, number={3}, journal={British Journal of Mathematical and Statistical Psychology}, publisher={Wiley}, author={Kyngdon, Andrew}, year={2010}, month=dec, pages={478–497} }
+"
+"elpi_ninos_2017","n/a",NA,"Data on Chilean youths' feelings and self-evaluations of social belonging, academic performance, ambitions, technology use, etc. (3rd round of longitudinal study)","http://observatorio.ministeriodesarrollosocial.gob.cl/elpi-tercera-ronda","misc"
+"hrs_cesd","Steffick, D. E., Wallace, R. B., & Herzog, A. R. (2000). Documentation of affective functioning measures in the Health and Retirement Study. Ann Arbor, MI: University of Michigan, 15.",NA,"Longitudinal data from a modified CESD in the Health and Retirement Study (HRS)","https://hrsdata.isr.umich.edu/data-products/rand?_ga=2.223300059.1164873790.1677848146-1581405565.1677550004","Steffick, D. E. and Wallace, R. B. and Herzog, A. R."
+"hrs_health","RAND HRS Longitudinal File 2018 (V2). Produced by the RAND Center for the Study of Aging, with funding from the National Institute on Aging and the Social Security Administration. Santa Monica, CA (July 2022).",NA,"Longitudinal data on chronic conditions, ADL, and IADLs from the Health and Retirement Study (HRS)","https://hrsdata.isr.umich.edu/data-products/rand?_ga=2.223300059.1164873790.1677848146-1581405565.1677550004","@misc{RAND2018,
+  title = {RAND HRS Longitudinal File 2018 (V2)},
+  author = {RAND Center for the Study of Aging},
+  year = {2022},
+  month = {July},
+  note = {Produced with funding from the National Institute on Aging and the Social Security Administration},
+  howpublished = {Santa Monica, CA},
+  url = {https://hrsdata.isr.umich.edu/data-products/rand?_ga=2.223300059.1164873790.1677848146-1581405565.1677550004},
+  description = {Longitudinal data on chronic conditions, ADL, and IADLs from the Health and Retirement Study (HRS)}
+}"
+"fractions_experiment","Aleven, V., Rau, M., Weitekamp, D. (2013) Cleaned logs with modified step names [data set]. DataShop @ CMU. https://pslcdatashop.web.cmu.edu/Files?datasetId=580",NA,"Data from an experiment using an online tutor to teach fractions","https://pslcdatashop.web.cmu.edu/Files?datasetId=580","@misc{Aleven2013,
+  author = {Aleven, Vincent and Rau, Mark and Weitekamp, D.},
+  title = {Cleaned logs with modified step names},
+  year = {2013},
+  howpublished = {Data set},
+  note = {DataShop @ CMU},
+  url = {https://pslcdatashop.web.cmu.edu/Files?datasetId=580},
+  description = {Data from an experiment using an online tutor to teach fractions}
+}"
+"gatech_cappunish","Roberts, J. S. (1995). Item response theory approaches to attitude measurement. (Doctoral dissertation, University of South Carolina, Columbia, 1995). Dissertation Abstracts International, 56, 7089B.",NA,"Attitudes towards capital punishment","https://prdlab.gatech.edu/unfolding/data/","@phdthesis{roberts1995,
+  author = {Roberts, J. S.},
+  title = {Item response theory approaches to attitude measurement},
+  school = {University of South Carolina},
+  year = {1995},
+  address = {Columbia},
+  note = {Dissertation Abstracts International, 56, 7089B},
+  url = {https://prdlab.gatech.edu/unfolding/data/},
+  description = {Attitudes towards capital punishment}
+}"
+"gatech_censor","Roberts, J. S. (1995). Item response theory approaches to attitude measurement. (Doctoral dissertation, University of South Carolina, Columbia, 1995). Dissertation Abstracts International, 56, 7089B.",NA,"Attitudes about censorship","https://prdlab.gatech.edu/unfolding/data/","@phdthesis{roberts1995,
+  author = {Roberts, J. S.},
+  title = {Item response theory approaches to attitude measurement},
+  school = {University of South Carolina},
+  year = {1995},
+  address = {Columbia},
+  note = {Dissertation Abstracts International, 56, 7089B},
+  url = {https://prdlab.gatech.edu/unfolding/data/},
+  description = {Attitudes about censorship}
+}"
+"geometry_course","Aleven, V., Bllings, B. (2007). Step tables and test scores [data set]. DataShop @ CMU. https://pslcdatashop.web.cmu.edu/Files?datasetId=122",NA,"Data from an online geomtry course, which allows students to get hints","https://pslcdatashop.web.cmu.edu/Files?datasetId=122","@misc{Aleven2007,
+  author = {Aleven, Vincent and Bllings, Bruce},
+  title = {Step tables and test scores},
+  year = {2007},
+  howpublished = {Data set},
+  note = {DataShop @ CMU},
+  url = {https://pslcdatashop.web.cmu.edu/Files?datasetId=122}
+}"
+"handwriting_2006","Anthony, L., & Ritter, S. (2008). Handwriting2/Examples Spring 2007. Dataset 165 in DataShop. Retrieved from https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=165.",NA,"Items from a study that compares a Cognitive Tutor Algebra tutor (used in a handwriting-based interface) to one enhanced with examples","https://pslcdatashop.web.cmu.edu/Files?datasetId=145","@misc{anthony2008handwriting,
+  author = {Anthony, L. and Ritter, S.},
+  title = {Handwriting2/Examples Spring 2007},
+  year = {2008},
+  note = {Dataset 165 in DataShop},
+  url = {https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=165},
+  description = {Items from a study that compares a Cognitive Tutor Algebra tutor (used in a handwriting-based interface) to one enhanced with examples}
+}"
+"handwriting_2007","Anthony, L., & Ritter, S. (2008). Handwriting/Examples Dec 2006. Dataset 145 in DataShop. Retrieved from https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=145.",NA,"Items from a study used to assess various cognitive tutor interventions in a handwriting-based interface","https://pslcdatashop.web.cmu.edu/Files?datasetId=165","@misc{anthony2008handwriting,
+  author = {Anthony, L. and Ritter, S.},
+  title = {Handwriting/Examples Dec 2006},
+  year = {2008},
+  note = {Dataset 145 in DataShop},
+  url = {https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=145},
+  description = {Items from a study used to assess various cognitive tutor interventions in a handwriting-based interface}
+}"
+"human_learning_rate","Koedinger, K. R., Carvalho, P., Liu, R., & McLaughlin, E. A. (2023). Student-step roll up for ds104 from An Astonishing Regularity in Student Learning Rate [data set]. DataShop @ CMU. https://pslcdatashop.web.cmu.edu/Files?datasetId=4629",NA,"Data from an online tutoring system used to study human learning rates","https://pslcdatashop.web.cmu.edu/Files?datasetId=4629","@misc{koedinger2023,
+  author = {Koedinger, K. R. and Carvalho, P. and Liu, R. and McLaughlin, E. A.},
+  title = {Student-step roll up for ds104 from An Astonishing Regularity in Student Learning Rate},
+  year = {2023},
+  howpublished = {Data set},
+  note = {DataShop @ CMU},
+  url = {https://pslcdatashop.web.cmu.edu/Files?datasetId=4629}
+}"
+"johnson_ipip_2005","Johnson, J. A. (2015, November 4). Data from Johnson, J. A. (2005). Ascertaining the validity of web-based personality inventories. Journal of Research in Personality, 39, 103-129. doi:10.1016/j.jrp.2004.09.009. Retrieved from osf.io/sxeq5","10.1016/j.jrp.2004.09.009","IPIP (personality test) item response data from Johnson's 2005 study","https://osf.io/tbmh5/"," @article{Johnson_2005, title={Ascertaining the validity of individual protocols from Web-based personality inventories}, volume={39}, ISSN={0092-6566}, url={http://dx.doi.org/10.1016/j.jrp.2004.09.009}, DOI={10.1016/j.jrp.2004.09.009}, number={1}, journal={Journal of Research in Personality}, publisher={Elsevier BV}, author={Johnson, John A.}, year={2005}, month=feb, pages={103–129} }
+"
+"junyi_academy_problems","Chang, H., Hsu, H., & Chen, K. (2015). Problem log, from ""Modeling Exercise Relationships in E-Learning: A Unified Approach"" [data set]. International Conference on Educational Data Mining (EDM). https://pslcdatashop.web.cmu.edu/Files?datasetId=1198",NA,"Item data from exercsies from Junyi Academy, which is an online learning platform","https://pslcdatashop.web.cmu.edu/Files?datasetId=1198","@inproceedings{chang2015problem,
+  author = {Chang, H. and Hsu, H. and Chen, K.},
+  title = {Problem log, from ""Modeling Exercise Relationships in E-Learning: A Unified Approach""},
+  booktitle = {International Conference on Educational Data Mining (EDM)},
+  year = {2015},
+  url = {https://pslcdatashop.web.cmu.edu/Files?datasetId=1198},
+  note = {Item data from exercises from Junyi Academy, which is an online learning platform}
+}"
+"mtf","Miech, Richard A., Johnston, Lloyd D., Bachman, Jerald G., O’Malley, Patrick M., Schulenberg, John E., and Patrick, Megan E. Monitoring the Future: A Continuing Study of American Youth (12th-Grade Survey), 2021. Inter-university Consortium for Political and Social Research [distributor], 2022-10-31. https://doi.org/10.3886/ICPSR38503.v1","10.3886/ICPSR38503.v1","Affective self-report data (brief scales on depression, self-esteem, loneliness, self-derogation) from the ""Monitoring the Future"" study","https://www.icpsr.umich.edu/web/NAHDAP/series/35","@misc{https://doi.org/10.3886/icpsr38503.v1,
+  doi = {10.3886/ICPSR38503.V1},
+  url = {https://www.icpsr.umich.edu/web/NAHDAP/studies/38503/versions/V1},
+  author = {Miech, Richard A. and Johnston, Lloyd D. and Bachman, Jerald G. and O'Malley, Patrick M. and Schulenberg, John E. and Patrick, Megan E.},
+  keywords = {alcohol, attitudes, crime, demographic characteristics, drug education, drug use, educational objectives, family background, gender roles, high school students, human behavior, lifestyles, prescription drugs, religious attitudes, self esteem, social change, tobacco use, values, youths},
+  language = {en},
+  title = {Monitoring the Future: A Continuing Study of American Youth (12th-Grade Survey), 2021},
+  publisher = {ICPSR - Interuniversity Consortium for Political and Social Research},
+  year = {2022}
+}
+"
+"measuring_lexical_quality","Andrews, S., Veldre, A. & Clarke, I.E. Measuring Lexical Quality: The Role of Spelling Ability. Behav Res 52, 2257–2282 (2020). https://doi.org/10.3758/s13428-020-01387-3","10.3758/s13428-020-01387-3","Spelling test results","https://osf.io/t4x7r/"," @article{Andrews_2020, title={Measuring Lexical Quality: The Role of Spelling Ability}, volume={52}, ISSN={1554-3528}, url={http://dx.doi.org/10.3758/s13428-020-01387-3}, DOI={10.3758/s13428-020-01387-3}, number={6}, journal={Behavior Research Methods}, publisher={Springer Science and Business Media LLC}, author={Andrews, Sally and Veldre, Aaron and Clarke, Indako E.}, year={2020}, month=apr, pages={2257–2282} }
+"
+"Mental_Health_Questionnaire_for_the_Elderly","Wang T, Tang D, Gong X, Wang D. Anxiety and Depression Among Older People Dwelling in Nursing Homes Versus Communities. Chinese Journal of Clinical Psychology,2012,20(6):868-870.",NA,"In order to accurately and effectively measure the level of anxiety symptoms in the elderly (above 60 years old), from 2010 to 2011, this project translated, test-tested, and used the English version of the Geriatric Anxiety Inventory (GAI) developed in 2007 by Australian scholar Pachana. This dataset includes the responses from 1318 Chinese elderly people living in urban communities, rural communities, and nursing homes in Beijing.","http://www.cnsda.org/index.php?r=projects/view&id=60493698","@article{Wang2012,
+  author = {Wang, T. and Tang, D. and Gong, X. and Wang, D.},
+  title = {Anxiety and Depression Among Older People Dwelling in Nursing Homes Versus Communities},
+  journal = {Chinese Journal of Clinical Psychology},
+  year = {2012},
+  volume = {20},
+  number = {6},
+  pages = {868--870},
+  url = {http://www.cnsda.org/index.php?r=projects/view&id=60493698}
+}"
+"moralfoundations_vignette","Crone, D.L., Rhee, J.J. & Laham, S.M. Developing brief versions of the Moral Foundations Vignettes using a genetic algorithm-based approach. Behav Res 53, 1179–1187 (2021). https://doi.org/10.3758/s13428-020-01489-y","10.3758/s13428-020-01489-y","Data from the Moral Foundations Vignette (MFV)","https://osf.io/cmwpv/"," @article{Crone_2020, title={Developing brief versions of the Moral Foundations Vignettes using a genetic algorithm-based approach}, volume={53}, ISSN={1554-3528}, url={http://dx.doi.org/10.3758/s13428-020-01489-y}, DOI={10.3758/s13428-020-01489-y}, number={3}, journal={Behavior Research Methods}, publisher={Springer Science and Business Media LLC}, author={Crone, Damien L. and Rhee, Joshua J. and Laham, Simon M.}, year={2020}, month=oct, pages={1179–1187} }
+"
+"oli_psych_course","Cheng, H. (2022). Gradebook for OLI Psych course [dataset]. DataShop @ CMU. https://pslcdatashop.web.cmu.edu/Files?datasetId=5255",NA,"Grading data from an OLI psychology course","https://pslcdatashop.web.cmu.edu/Files?datasetId=5255","@misc{cheng2022,
+  author = {Cheng, H.},
+  title = {Gradebook for OLI Psych course},
+  year = {2022},
+  howpublished = {Dataset},
+  note = {DataShop @ CMU},
+  url = {https://pslcdatashop.web.cmu.edu/Files?datasetId=5255}
+}"
+"rollcall_house","Lewis, Jeffrey B., Keith Poole, Howard Rosenthal, Adam Boche, Aaron Rudkin, and Luke Sonnet (2023). Voteview: Congressional Roll-Call Votes Database. https://voteview.com/",NA,"US House votes","https://voteview.com/articles/data_help_votes","@misc{lewis2023voteview,
+  author = {Lewis, Jeffrey B. and Poole, Keith and Rosenthal, Howard and Boche, Adam and Rudkin, Aaron and Sonnet, Luke},
+  title = {Voteview: Congressional Roll-Call Votes Database},
+  year = {2023},
+  url = {https://voteview.com/},
+  note = {US House votes}
+}"
+"rollcall_senate","Lewis, Jeffrey B., Keith Poole, Howard Rosenthal, Adam Boche, Aaron Rudkin, and Luke Sonnet (2023). Voteview: Congressional Roll-Call Votes Database. https://voteview.com/",NA,"US Senate votes","https://voteview.com/articles/data_help_votes","@misc{lewis2023voteview,
+  author = {Lewis, Jeffrey B. and Poole, Keith and Rosenthal, Howard and Boche, Adam and Rudkin, Aaron and Sonnet, Luke},
+  title = {Voteview: Congressional Roll-Call Votes Database},
+  year = {2023},
+  url = {https://voteview.com/},
+  note = {US Senate votes}
+}"
+"slingshot","Ribeiro Eulalio Cabral, G., Rodrigues Sampaio, L., Ribeiro Eulalio Cabral, G. et al. Slingshot Challenge and Star Mines: Two digital games as a prisoner’s dilemma to assess cooperation in children. Behav Res 54, 597–610 (2022). https://doi.org/10.3758/s13428-021-01661-y","10.3758/s13428-021-01661-y","Data from two digital games (Slingshot Challenge and Star Mines) for testing prisoner's dilemma","https://github.com/grecabral/Supplemental-files/blob/master/data.csv"," @article{Ribeiro_Eulalio_Cabral_2021, title={Slingshot Challenge and Star Mines: Two digital games as a prisoner’s dilemma to assess cooperation in children}, volume={54}, ISSN={1554-3528}, url={http://dx.doi.org/10.3758/s13428-021-01661-y}, DOI={10.3758/s13428-021-01661-y}, number={2}, journal={Behavior Research Methods}, publisher={Springer Science and Business Media LLC}, author={Ribeiro Eulalio Cabral, Guilherme and Rodrigues Sampaio, Leonardo and Ribeiro Eulalio Cabral, Giordano and Bastos Santana, Raick}, year={2021}, month=jul, pages={597–610} }
+"
+"state_c1_2007_10_responses","Briggs, D. C., & Domingue, B. (2013). The gains from vertical scaling. Journal of Educational and Behavioral Statistics, 38(6), 551-576.","10.3102/1076998613508317","Response from a state reading assessment (grade 10)","n/a"," @article{Briggs_2013, title={The Gains From Vertical Scaling}, volume={38}, ISSN={1935-1054}, url={http://dx.doi.org/10.3102/1076998613508317}, DOI={10.3102/1076998613508317}, number={6}, journal={Journal of Educational and Behavioral Statistics}, publisher={American Educational Research Association (AERA)}, author={Briggs, Derek C. and Domingue, Ben}, year={2013}, month=dec, pages={551–576} }
+"
+"state_c1_2007_3_responses","Briggs, D. C., & Domingue, B. (2013). The gains from vertical scaling. Journal of Educational and Behavioral Statistics, 38(6), 551-576.","10.3102/1076998613508317","Response from a state reading assessment (grade 3)","n/a"," @article{Briggs_2013, title={The Gains From Vertical Scaling}, volume={38}, ISSN={1935-1054}, url={http://dx.doi.org/10.3102/1076998613508317}, DOI={10.3102/1076998613508317}, number={6}, journal={Journal of Educational and Behavioral Statistics}, publisher={American Educational Research Association (AERA)}, author={Briggs, Derek C. and Domingue, Ben}, year={2013}, month=dec, pages={551–576} }
+"
+"state_c1_2007_4_responses","Briggs, D. C., & Domingue, B. (2013). The gains from vertical scaling. Journal of Educational and Behavioral Statistics, 38(6), 551-576.","10.3102/1076998613508317","Response from a state reading assessment (grade 4)","n/a"," @article{Briggs_2013, title={The Gains From Vertical Scaling}, volume={38}, ISSN={1935-1054}, url={http://dx.doi.org/10.3102/1076998613508317}, DOI={10.3102/1076998613508317}, number={6}, journal={Journal of Educational and Behavioral Statistics}, publisher={American Educational Research Association (AERA)}, author={Briggs, Derek C. and Domingue, Ben}, year={2013}, month=dec, pages={551–576} }
+"
+"state_c1_2007_5_responses","Briggs, D. C., & Domingue, B. (2013). The gains from vertical scaling. Journal of Educational and Behavioral Statistics, 38(6), 551-576.","10.3102/1076998613508317","Response from a state reading assessment (grade 5)","n/a"," @article{Briggs_2013, title={The Gains From Vertical Scaling}, volume={38}, ISSN={1935-1054}, url={http://dx.doi.org/10.3102/1076998613508317}, DOI={10.3102/1076998613508317}, number={6}, journal={Journal of Educational and Behavioral Statistics}, publisher={American Educational Research Association (AERA)}, author={Briggs, Derek C. and Domingue, Ben}, year={2013}, month=dec, pages={551–576} }
+"
+"state_c1_2007_6_responses","Briggs, D. C., & Domingue, B. (2013). The gains from vertical scaling. Journal of Educational and Behavioral Statistics, 38(6), 551-576.","10.3102/1076998613508317","Response from a state reading assessment (grade 6)","n/a"," @article{Briggs_2013, title={The Gains From Vertical Scaling}, volume={38}, ISSN={1935-1054}, url={http://dx.doi.org/10.3102/1076998613508317}, DOI={10.3102/1076998613508317}, number={6}, journal={Journal of Educational and Behavioral Statistics}, publisher={American Educational Research Association (AERA)}, author={Briggs, Derek C. and Domingue, Ben}, year={2013}, month=dec, pages={551–576} }
+"
+"state_c1_2007_7_responses","Briggs, D. C., & Domingue, B. (2013). The gains from vertical scaling. Journal of Educational and Behavioral Statistics, 38(6), 551-576.","10.3102/1076998613508317","Response from a state reading assessment (grade 7)","n/a"," @article{Briggs_2013, title={The Gains From Vertical Scaling}, volume={38}, ISSN={1935-1054}, url={http://dx.doi.org/10.3102/1076998613508317}, DOI={10.3102/1076998613508317}, number={6}, journal={Journal of Educational and Behavioral Statistics}, publisher={American Educational Research Association (AERA)}, author={Briggs, Derek C. and Domingue, Ben}, year={2013}, month=dec, pages={551–576} }
+"
+"state_c1_2007_8_responses","Briggs, D. C., & Domingue, B. (2013). The gains from vertical scaling. Journal of Educational and Behavioral Statistics, 38(6), 551-576.","10.3102/1076998613508317","Response from a state reading assessment (grade 8)","n/a"," @article{Briggs_2013, title={The Gains From Vertical Scaling}, volume={38}, ISSN={1935-1054}, url={http://dx.doi.org/10.3102/1076998613508317}, DOI={10.3102/1076998613508317}, number={6}, journal={Journal of Educational and Behavioral Statistics}, publisher={American Educational Research Association (AERA)}, author={Briggs, Derek C. and Domingue, Ben}, year={2013}, month=dec, pages={551–576} }
+"
+"state_c1_2007_9_responses","Briggs, D. C., & Domingue, B. (2013). The gains from vertical scaling. Journal of Educational and Behavioral Statistics, 38(6), 551-576.","10.3102/1076998613508317","Response from a state reading assessment (grade 9)","n/a"," @article{Briggs_2013, title={The Gains From Vertical Scaling}, volume={38}, ISSN={1935-1054}, url={http://dx.doi.org/10.3102/1076998613508317}, DOI={10.3102/1076998613508317}, number={6}, journal={Journal of Educational and Behavioral Statistics}, publisher={American Educational Research Association (AERA)}, author={Briggs, Derek C. and Domingue, Ben}, year={2013}, month=dec, pages={551–576} }
+"
+"state_c3_2007_5_responses","Briggs, D. C., & Domingue, B. (2013). The gains from vertical scaling. Journal of Educational and Behavioral Statistics, 38(6), 551-576.","10.3102/1076998613508317","Response from a state math assessment (grade 5)","n/a"," @article{Briggs_2013, title={The Gains From Vertical Scaling}, volume={38}, ISSN={1935-1054}, url={http://dx.doi.org/10.3102/1076998613508317}, DOI={10.3102/1076998613508317}, number={6}, journal={Journal of Educational and Behavioral Statistics}, publisher={American Educational Research Association (AERA)}, author={Briggs, Derek C. and Domingue, Ben}, year={2013}, month=dec, pages={551–576} }
+"
+"state_c3_2007_6_responses","Briggs, D. C., & Domingue, B. (2013). The gains from vertical scaling. Journal of Educational and Behavioral Statistics, 38(6), 551-576.","10.3102/1076998613508317","Response from a state math assessment (grade 6)","n/a"," @article{Briggs_2013, title={The Gains From Vertical Scaling}, volume={38}, ISSN={1935-1054}, url={http://dx.doi.org/10.3102/1076998613508317}, DOI={10.3102/1076998613508317}, number={6}, journal={Journal of Educational and Behavioral Statistics}, publisher={American Educational Research Association (AERA)}, author={Briggs, Derek C. and Domingue, Ben}, year={2013}, month=dec, pages={551–576} }
+"
+"state_c3_2007_7_responses","Briggs, D. C., & Domingue, B. (2013). The gains from vertical scaling. Journal of Educational and Behavioral Statistics, 38(6), 551-576.","10.3102/1076998613508317","Response from a state math assessment (grade 7)","n/a"," @article{Briggs_2013, title={The Gains From Vertical Scaling}, volume={38}, ISSN={1935-1054}, url={http://dx.doi.org/10.3102/1076998613508317}, DOI={10.3102/1076998613508317}, number={6}, journal={Journal of Educational and Behavioral Statistics}, publisher={American Educational Research Association (AERA)}, author={Briggs, Derek C. and Domingue, Ben}, year={2013}, month=dec, pages={551–576} }
+"
+"state_c3_2007_8_responses","Briggs, D. C., & Domingue, B. (2013). The gains from vertical scaling. Journal of Educational and Behavioral Statistics, 38(6), 551-576.","10.3102/1076998613508317","Response from a state math assessment (grade 8)","n/a"," @article{Briggs_2013, title={The Gains From Vertical Scaling}, volume={38}, ISSN={1935-1054}, url={http://dx.doi.org/10.3102/1076998613508317}, DOI={10.3102/1076998613508317}, number={6}, journal={Journal of Educational and Behavioral Statistics}, publisher={American Educational Research Association (AERA)}, author={Briggs, Derek C. and Domingue, Ben}, year={2013}, month=dec, pages={551–576} }
+"
+"state_c3_2007_9_responses","Briggs, D. C., & Domingue, B. (2013). The gains from vertical scaling. Journal of Educational and Behavioral Statistics, 38(6), 551-576.","10.3102/1076998613508317","Response from a state math assessment (grade 9)","n/a"," @article{Briggs_2013, title={The Gains From Vertical Scaling}, volume={38}, ISSN={1935-1054}, url={http://dx.doi.org/10.3102/1076998613508317}, DOI={10.3102/1076998613508317}, number={6}, journal={Journal of Educational and Behavioral Statistics}, publisher={American Educational Research Association (AERA)}, author={Briggs, Derek C. and Domingue, Ben}, year={2013}, month=dec, pages={551–576} }
+"
+"thurstonian_ddiffusion","Bunji, K., Okada, K. Joint modeling of the two-alternative multidimensional forced-choice personality measurement and its response time by a Thurstonian D-diffusion item response model. Behav Res 52, 1091–1107 (2020). https://doi.org/10.3758/s13428-019-01302-5","10.3758/s13428-019-01302-5","Forced choice responses to big 5 items","https://osf.io/jswqg/"," @article{Bunji_2020, title={Joint modeling of the two-alternative multidimensional forced-choice personality measurement and its response time by a Thurstonian D-diffusion item response model}, volume={52}, ISSN={1554-3528}, url={http://dx.doi.org/10.3758/s13428-019-01302-5}, DOI={10.3758/s13428-019-01302-5}, number={3}, journal={Behavior Research Methods}, publisher={Springer Science and Business Media LLC}, author={Bunji, Kyosuke and Okada, Kensuke}, year={2020}, month=may, pages={1091–1107} }
+"
+"wordsum","Malhotra, N., Krosnick, J. A., & Haertel, E. (2007). The psychometric properties of the GSS Wordsum vocabulary test. GSS Methodological Report, 11, 1-63.",NA,"Ten item vocabulary test included in General Social Suvey (https://en.wikipedia.org/wiki/Wordsum)","https://gss.norc.org/get-the-data/stata","@article{malhotra2007psychometric,
+  author = {Malhotra, N. and Krosnick, J. A. and Haertel, E.},
+  title = {The psychometric properties of the GSS Wordsum vocabulary test},
+  journal = {GSS Methodological Report},
+  volume = {11},
+  pages = {1--63},
+  year = {2007},
+  url = {https://gss.norc.org/get-the-data/stata},
+  note = {Ten item vocabulary test included in General Social Survey}
+}"
+"wpi_math_assistments","Heffernan, N. (2010). 2004-2005 question level data [data set]. DataShop @ CMU. https://pslcdatashop.web.cmu.edu/Files?datasetId=92",NA,"Items from online algebra tutoring, assessing whether students get the item correct on the first attempt","https://pslcdatashop.web.cmu.edu/Files?datasetId=92","@misc{heffernan2010,
+  author = {Heffernan, Neil},
+  title = {2004-2005 question level data},
+  year = {2010},
+  howpublished = {Data set},
+  note = {DataShop @ CMU},
+  url = {https://pslcdatashop.web.cmu.edu/Files?datasetId=92},
+  description = {Items from online algebra tutoring, assessing whether students get the item correct on the first attempt}
+}"
+"nbashots",NA,NA,"NBA shots by player","https://github.com/DomSamangy/NBA_Shots_04_23","@misc{nbashots,
+  author = {Dom Samangy},
+  title = {NBA shots by player},
+  year = {2023},
+  url = {https://github.com/DomSamangy/NBA_Shots_04_23},
+  note = {Accessed: 2023-10-01}
+}"
+"AAQ-II","Langer, Á. I., Ponce, F. P., Ordóñez-Carrasco, J. L., Fuentes-Ferrada, R., Mac-Ginty, S., Gaete, J., & Núñez, D. (2024). Psychometric evidence of the Acceptance and Action Questionnaire-II (AAQ-II): an item response theory analysis in university students from Chile. BMC psychology, 12(1), 111.","10.1186/s40359-024-01608-w","Measure of Experiential avoidance","https://osf.io/43dfq/?view_only=a97186042d6a474aad93880b183935fc"," @article{Langer_2024, title={Psychometric evidence of the Acceptance and Action Questionnaire-II (AAQ-II): an item response theory analysis in university students from Chile}, volume={12}, ISSN={2050-7283}, url={http://dx.doi.org/10.1186/s40359-024-01608-w}, DOI={10.1186/s40359-024-01608-w}, number={1}, journal={BMC Psychology}, publisher={Springer Science and Business Media LLC}, author={Langer, Álvaro I. and Ponce, Fernando P. and Ordóñez-Carrasco, Jorge L. and Fuentes-Ferrada, Reiner and Mac-Ginty, Scarlett and Gaete, Jorge and Núñez, Daniel}, year={2024}, month=mar }
+"
+"face_identification_jeckeln2023","Jeckeln, G., Hu, Y., Cavazos, J. G., Yates, A. N., Hahn, C. A., Tang, L., ... & O’Toole, A. J. (2024). Face identification proficiency test designed using item response theory. Behavior Research Methods, 56(3), 1244-1259.","10.3758/s13428-023-02092-7","Data from Triad Identity Matching (TIM) tasks.","https://osf.io/yruvk/?view_only=4e4ae41ae25c4b4cba113a62660df231"," @article{Jeckeln_2023, title={Face identification proficiency test designed using item response theory}, volume={56}, ISSN={1554-3528}, url={http://dx.doi.org/10.3758/s13428-023-02092-7}, DOI={10.3758/s13428-023-02092-7}, number={3}, journal={Behavior Research Methods}, publisher={Springer Science and Business Media LLC}, author={Jeckeln, Geraldine and Hu, Ying and Cavazos, Jacqueline G. and Yates, Amy N. and Hahn, Carina A. and Tang, Larry and Phillips, P. Jonathon and O’Toole, Alice J.}, year={2023}, month=jun, pages={1244–1259} }
+"
+"STARSinCA_Perlstein_2022","Perlstein, S., Wagner, N., Domínguez-Álvarez, B., Gómez-Fraguela, J. A., Romero, E., Lopez-Romero, L., & Waller, R. (2023). Psychometric properties, factor structure, and validity of the sensitivity to threat and affiliative reward scale in children and adults. Assessment, 30(6), 1914-1934.","10.1177/10731911221128946","Sensitivity to Threat and Affiliative Reward Scale (STARS)","https://osf.io/5qxv6/"," @article{Perlstein_2022, title={Psychometric Properties, Factor Structure, and Validity of the Sensitivity to Threat and Affiliative Reward Scale in Children and Adults}, volume={30}, ISSN={1552-3489}, url={http://dx.doi.org/10.1177/10731911221128946}, DOI={10.1177/10731911221128946}, number={6}, journal={Assessment}, publisher={SAGE Publications}, author={Perlstein, Samantha and Wagner, Nicholas and Domínguez-Álvarez, Beatriz and Gómez-Fraguela, José Antonio and Romero, Estrella and Lopez-Romero, Laura and Waller, Rebecca}, year={2022}, month=oct, pages={1914–1934} }
+"
+"Tests of vocabulary_TSQ","Vermeiren, H., Vandendaele, A., & Brysbaert, M. (2023). Validated tests for language research with university students whose native language is English: Tests of vocabulary, general knowledge, author recognition, and reading comprehension. Behavior Research Methods, 55(3), 1036-1068.","10.3758/s13428-022-01856-x",NA,"https://osf.io/ef3s4/"," @article{Vermeiren_2022, title={Validated tests for language research with university students whose native language is English: Tests of vocabulary, general knowledge, author recognition, and reading comprehension}, volume={55}, ISSN={1554-3528}, url={http://dx.doi.org/10.3758/s13428-022-01856-x}, DOI={10.3758/s13428-022-01856-x}, number={3}, journal={Behavior Research Methods}, publisher={Springer Science and Business Media LLC}, author={Vermeiren, Hanke and Vandendaele, Aaron and Brysbaert, Marc}, year={2022}, month=may, pages={1036–1068} }
+"
+"Tests of vocabulary_Vocabulary","Vermeiren, H., Vandendaele, A., & Brysbaert, M. (2023). Validated tests for language research with university students whose native language is English: Tests of vocabulary, general knowledge, author recognition, and reading comprehension. Behavior Research Methods, 55(3), 1036-1068.","10.3758/s13428-022-01856-x",NA,"https://osf.io/ef3s4/"," @article{Vermeiren_2022, title={Validated tests for language research with university students whose native language is English: Tests of vocabulary, general knowledge, author recognition, and reading comprehension}, volume={55}, ISSN={1554-3528}, url={http://dx.doi.org/10.3758/s13428-022-01856-x}, DOI={10.3758/s13428-022-01856-x}, number={3}, journal={Behavior Research Methods}, publisher={Springer Science and Business Media LLC}, author={Vermeiren, Hanke and Vandendaele, Aaron and Brysbaert, Marc}, year={2022}, month=may, pages={1036–1068} }
+"
+"Tests of vocabulary_AFOQT","Vermeiren, H., Vandendaele, A., & Brysbaert, M. (2023). Validated tests for language research with university students whose native language is English: Tests of vocabulary, general knowledge, author recognition, and reading comprehension. Behavior Research Methods, 55(3), 1036-1068.","10.3758/s13428-022-01856-x",NA,"https://osf.io/ef3s4/"," @article{Vermeiren_2022, title={Validated tests for language research with university students whose native language is English: Tests of vocabulary, general knowledge, author recognition, and reading comprehension}, volume={55}, ISSN={1554-3528}, url={http://dx.doi.org/10.3758/s13428-022-01856-x}, DOI={10.3758/s13428-022-01856-x}, number={3}, journal={Behavior Research Methods}, publisher={Springer Science and Business Media LLC}, author={Vermeiren, Hanke and Vandendaele, Aaron and Brysbaert, Marc}, year={2022}, month=may, pages={1036–1068} }
+"
+"Tests of vocabulary_ART","Vermeiren, H., Vandendaele, A., & Brysbaert, M. (2023). Validated tests for language research with university students whose native language is English: Tests of vocabulary, general knowledge, author recognition, and reading comprehension. Behavior Research Methods, 55(3), 1036-1068.","10.3758/s13428-022-01856-x",NA,"https://osf.io/ef3s4/"," @article{Vermeiren_2022, title={Validated tests for language research with university students whose native language is English: Tests of vocabulary, general knowledge, author recognition, and reading comprehension}, volume={55}, ISSN={1554-3528}, url={http://dx.doi.org/10.3758/s13428-022-01856-x}, DOI={10.3758/s13428-022-01856-x}, number={3}, journal={Behavior Research Methods}, publisher={Springer Science and Business Media LLC}, author={Vermeiren, Hanke and Vandendaele, Aaron and Brysbaert, Marc}, year={2022}, month=may, pages={1036–1068} }
+"
+"Tests of vocabulary_BFI","Vermeiren, H., Vandendaele, A., & Brysbaert, M. (2023). Validated tests for language research with university students whose native language is English: Tests of vocabulary, general knowledge, author recognition, and reading comprehension. Behavior Research Methods, 55(3), 1036-1068.","10.3758/s13428-022-01856-x",NA,"https://osf.io/ef3s4/"," @article{Vermeiren_2022, title={Validated tests for language research with university students whose native language is English: Tests of vocabulary, general knowledge, author recognition, and reading comprehension}, volume={55}, ISSN={1554-3528}, url={http://dx.doi.org/10.3758/s13428-022-01856-x}, DOI={10.3758/s13428-022-01856-x}, number={3}, journal={Behavior Research Methods}, publisher={Springer Science and Business Media LLC}, author={Vermeiren, Hanke and Vandendaele, Aaron and Brysbaert, Marc}, year={2022}, month=may, pages={1036–1068} }
+"
+"Tests of vocabulary_GK","Vermeiren, H., Vandendaele, A., & Brysbaert, M. (2023). Validated tests for language research with university students whose native language is English: Tests of vocabulary, general knowledge, author recognition, and reading comprehension. Behavior Research Methods, 55(3), 1036-1068.","10.3758/s13428-022-01856-x",NA,"https://osf.io/ef3s4/"," @article{Vermeiren_2022, title={Validated tests for language research with university students whose native language is English: Tests of vocabulary, general knowledge, author recognition, and reading comprehension}, volume={55}, ISSN={1554-3528}, url={http://dx.doi.org/10.3758/s13428-022-01856-x}, DOI={10.3758/s13428-022-01856-x}, number={3}, journal={Behavior Research Methods}, publisher={Springer Science and Business Media LLC}, author={Vermeiren, Hanke and Vandendaele, Aaron and Brysbaert, Marc}, year={2022}, month=may, pages={1036–1068} }
+"
+"Tests of vocabulary_IceageQ","Vermeiren, H., Vandendaele, A., & Brysbaert, M. (2023). Validated tests for language research with university students whose native language is English: Tests of vocabulary, general knowledge, author recognition, and reading comprehension. Behavior Research Methods, 55(3), 1036-1068.","10.3758/s13428-022-01856-x",NA,"https://osf.io/ef3s4/"," @article{Vermeiren_2022, title={Validated tests for language research with university students whose native language is English: Tests of vocabulary, general knowledge, author recognition, and reading comprehension}, volume={55}, ISSN={1554-3528}, url={http://dx.doi.org/10.3758/s13428-022-01856-x}, DOI={10.3758/s13428-022-01856-x}, number={3}, journal={Behavior Research Methods}, publisher={Springer Science and Business Media LLC}, author={Vermeiren, Hanke and Vandendaele, Aaron and Brysbaert, Marc}, year={2022}, month=may, pages={1036–1068} }
+"
+"Tests of vocabulary_ND","Vermeiren, H., Vandendaele, A., & Brysbaert, M. (2023). Validated tests for language research with university students whose native language is English: Tests of vocabulary, general knowledge, author recognition, and reading comprehension. Behavior Research Methods, 55(3), 1036-1068.","10.3758/s13428-022-01856-x",NA,"https://osf.io/ef3s4/"," @article{Vermeiren_2022, title={Validated tests for language research with university students whose native language is English: Tests of vocabulary, general knowledge, author recognition, and reading comprehension}, volume={55}, ISSN={1554-3528}, url={http://dx.doi.org/10.3758/s13428-022-01856-x}, DOI={10.3758/s13428-022-01856-x}, number={3}, journal={Behavior Research Methods}, publisher={Springer Science and Business Media LLC}, author={Vermeiren, Hanke and Vandendaele, Aaron and Brysbaert, Marc}, year={2022}, month=may, pages={1036–1068} }
+"
+"Tests of vocabulary_RF","Vermeiren, H., Vandendaele, A., & Brysbaert, M. (2023). Validated tests for language research with university students whose native language is English: Tests of vocabulary, general knowledge, author recognition, and reading comprehension. Behavior Research Methods, 55(3), 1036-1068.","10.3758/s13428-022-01856-x",NA,"https://osf.io/ef3s4/"," @article{Vermeiren_2022, title={Validated tests for language research with university students whose native language is English: Tests of vocabulary, general knowledge, author recognition, and reading comprehension}, volume={55}, ISSN={1554-3528}, url={http://dx.doi.org/10.3758/s13428-022-01856-x}, DOI={10.3758/s13428-022-01856-x}, number={3}, journal={Behavior Research Methods}, publisher={Springer Science and Business Media LLC}, author={Vermeiren, Hanke and Vandendaele, Aaron and Brysbaert, Marc}, year={2022}, month=may, pages={1036–1068} }
+"
+"Tests of vocabulary_T","Vermeiren, H., Vandendaele, A., & Brysbaert, M. (2023). Validated tests for language research with university students whose native language is English: Tests of vocabulary, general knowledge, author recognition, and reading comprehension. Behavior Research Methods, 55(3), 1036-1068.","10.3758/s13428-022-01856-x",NA,"https://osf.io/ef3s4/"," @article{Vermeiren_2022, title={Validated tests for language research with university students whose native language is English: Tests of vocabulary, general knowledge, author recognition, and reading comprehension}, volume={55}, ISSN={1554-3528}, url={http://dx.doi.org/10.3758/s13428-022-01856-x}, DOI={10.3758/s13428-022-01856-x}, number={3}, journal={Behavior Research Methods}, publisher={Springer Science and Business Media LLC}, author={Vermeiren, Hanke and Vandendaele, Aaron and Brysbaert, Marc}, year={2022}, month=may, pages={1036–1068} }
+"
+"PVPVESQ_Gasiorowska_2021_study2_AQ","Gasiorowska, A., Glomb, K., & Kesebir, P. (2023). Psychometric validation of the polish version of the emotional style questionnaire. Current Psychology, 42(26), 22351-22369.","10.1007/s12144-022-03323-4",NA,"https://osf.io/twzq4/"," @article{Gasiorowska_2022, title={Psychometric validation of the polish version of the emotional style questionnaire}, volume={42}, ISSN={1936-4733}, url={http://dx.doi.org/10.1007/s12144-022-03323-4}, DOI={10.1007/s12144-022-03323-4}, number={26}, journal={Current Psychology}, publisher={Springer Science and Business Media LLC}, author={Gasiorowska, Agata and Glomb, Kaja and Kesebir, Pelin}, year={2022}, month=jun, pages={22351–22369} }
+"
+"PPSCMMUSAUK_Keech_2019_Apprais_df","Keech, J. J., Orbell, S., Hagger, M. S., O’Callaghan, F. V., & Hamilton, K. (2021). Psychometric properties of the stress control mindset measure in university students from Australia and the UK. Brain and Behavior, 11(2), e01963.","10.1002/brb3.1963",NA,"https://osf.io/6kdgz/"," @article{Keech_2020, title={Psychometric properties of the stress control mindset measure in university students from Australia and the UK}, volume={11}, ISSN={2162-3279}, url={http://dx.doi.org/10.1002/brb3.1963}, DOI={10.1002/brb3.1963}, number={2}, journal={Brain and Behavior}, publisher={Wiley}, author={Keech, Jacob J. and Orbell, Sheina and Hagger, Martin S. and O’Callaghan, Frances V. and Hamilton, Kyra}, year={2020}, month=nov }
+"
+"PPCDRSSA_FranciscoJ_2023_CDRISC","García León, M. D. L. Á., González Gómez, A., Robles Ortega, H., Padilla García, J. L., & Peralta Ramírez, M. I. (2019). Psychometric properties of the Connor-Davidson Resilience Scale (CD-RISC) in the Spanish population.","10.6018/analesps.35.1.314111","The Connor-Davison Resilience Scale","https://osf.io/f7rp3/"," @article{Garc_a_Le_n_2018, title={Propiedades psicométricas de la Escala de Resiliencia de Connor y Davidson (CD-RISC) en población española.}, volume={35}, ISSN={0212-9728}, url={http://dx.doi.org/10.6018/analesps.35.1.314111}, DOI={10.6018/analesps.35.1.314111}, number={1}, journal={Anales de Psicología}, publisher={Servicio de Publicaciones de la Universidad de Murcia}, author={García León, Maria Ángeles and González-Gomez, Andrés and Robles-Ortega, Humbelina and Padilla, Jose Luís and Peralta-Ramirez, Isabel}, year={2018}, month=dec, pages={33–40} }
+"
+"PPCDRSSA_FranciscoJ_2023_RCADS30","García León, M. D. L. Á., González Gómez, A., Robles Ortega, H., Padilla García, J. L., & Peralta Ramírez, M. I. (2019). Psychometric properties of the Connor-Davidson Resilience Scale (CD-RISC) in the Spanish population.","10.6018/analesps.35.1.314111","The Revised Child Anxiety and Depression Scale−30","https://osf.io/f7rp3/"," @article{Garc_a_Le_n_2018, title={Propiedades psicométricas de la Escala de Resiliencia de Connor y Davidson (CD-RISC) en población española.}, volume={35}, ISSN={0212-9728}, url={http://dx.doi.org/10.6018/analesps.35.1.314111}, DOI={10.6018/analesps.35.1.314111}, number={1}, journal={Anales de Psicología}, publisher={Servicio de Publicaciones de la Universidad de Murcia}, author={García León, Maria Ángeles and González-Gomez, Andrés and Robles-Ortega, Humbelina and Padilla, Jose Luís and Peralta-Ramirez, Isabel}, year={2018}, month=dec, pages={33–40} }
+"
+"PPCDRSSA_FranciscoJ_2023_KIDS","García León, M. D. L. Á., González Gómez, A., Robles Ortega, H., Padilla García, J. L., & Peralta Ramírez, M. I. (2019). Psychometric properties of the Connor-Davidson Resilience Scale (CD-RISC) in the Spanish population.","10.6018/analesps.35.1.314111","KIDSCREEN–10","https://osf.io/f7rp3/"," @article{Garc_a_Le_n_2018, title={Propiedades psicométricas de la Escala de Resiliencia de Connor y Davidson (CD-RISC) en población española.}, volume={35}, ISSN={0212-9728}, url={http://dx.doi.org/10.6018/analesps.35.1.314111}, DOI={10.6018/analesps.35.1.314111}, number={1}, journal={Anales de Psicología}, publisher={Servicio de Publicaciones de la Universidad de Murcia}, author={García León, Maria Ángeles and González-Gomez, Andrés and Robles-Ortega, Humbelina and Padilla, Jose Luís and Peralta-Ramirez, Isabel}, year={2018}, month=dec, pages={33–40} }
+"
+"PPCDRSSA_FranciscoJ_2023_SDQ","García León, M. D. L. Á., González Gómez, A., Robles Ortega, H., Padilla García, J. L., & Peralta Ramírez, M. I. (2019). Psychometric properties of the Connor-Davidson Resilience Scale (CD-RISC) in the Spanish population.","10.6018/analesps.35.1.314111","The Strength and Difficulties Questionnaire","https://osf.io/f7rp3/"," @article{Garc_a_Le_n_2018, title={Propiedades psicométricas de la Escala de Resiliencia de Connor y Davidson (CD-RISC) en población española.}, volume={35}, ISSN={0212-9728}, url={http://dx.doi.org/10.6018/analesps.35.1.314111}, DOI={10.6018/analesps.35.1.314111}, number={1}, journal={Anales de Psicología}, publisher={Servicio de Publicaciones de la Universidad de Murcia}, author={García León, Maria Ángeles and González-Gomez, Andrés and Robles-Ortega, Humbelina and Padilla, Jose Luís and Peralta-Ramirez, Isabel}, year={2018}, month=dec, pages={33–40} }
+"
+"duolingo_en_es__reverse_translate","Settles, Burr, 2018, ""Data for the 2018 Duolingo Shared Task on Second Language Acquisition Modeling (SLAM)"", https://doi.org/10.7910/DVN/8SWHNO, Harvard Dataverse, V4, https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8SWHNO","10.7910/DVN/8SWHNO","Modeling of second language acquisition, data from English learners (who already speak Spanish).","http://sharedtask.duolingo.com/2018.html#task-definition-data","@misc{https://doi.org/10.7910/dvn/8swhno,
+  doi = {10.7910/DVN/8SWHNO},
+  url = {https://dataverse.harvard.edu/citation?persistentId=doi:10.7910/DVN/8SWHNO},
+  author = {{Settles, Burr}},
+  keywords = {Computer and Information Science, Social Sciences, Duolingo, Spaced Repetition, Second Language Acquisition, Machine Learning, Computational Linguistics},
+  title = {Data for the 2018 Duolingo Shared Task on Second Language Acquisition Modeling (SLAM)},
+  publisher = {Harvard Dataverse},
+  year = {2018}
+}
+"
+"duolingo_en_es__reverse_tap","Settles, Burr, 2018, ""Data for the 2018 Duolingo Shared Task on Second Language Acquisition Modeling (SLAM)"", https://doi.org/10.7910/DVN/8SWHNO, Harvard Dataverse, V4, https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8SWHNO","10.7910/DVN/8SWHNO","Modeling of second language acquisition, data from English learners (who already speak Spanish).","http://sharedtask.duolingo.com/2018.html#task-definition-data","@misc{https://doi.org/10.7910/dvn/8swhno,
+  doi = {10.7910/DVN/8SWHNO},
+  url = {https://dataverse.harvard.edu/citation?persistentId=doi:10.7910/DVN/8SWHNO},
+  author = {{Settles, Burr}},
+  keywords = {Computer and Information Science, Social Sciences, Duolingo, Spaced Repetition, Second Language Acquisition, Machine Learning, Computational Linguistics},
+  title = {Data for the 2018 Duolingo Shared Task on Second Language Acquisition Modeling (SLAM)},
+  publisher = {Harvard Dataverse},
+  year = {2018}
+}
+"
+"duolingo_en_es__listen","Settles, Burr, 2018, ""Data for the 2018 Duolingo Shared Task on Second Language Acquisition Modeling (SLAM)"", https://doi.org/10.7910/DVN/8SWHNO, Harvard Dataverse, V4, https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8SWHNO","10.7910/DVN/8SWHNO","Modeling of second language acquisition, data from English learners (who already speak Spanish).","http://sharedtask.duolingo.com/2018.html#task-definition-data","@misc{https://doi.org/10.7910/dvn/8swhno,
+  doi = {10.7910/DVN/8SWHNO},
+  url = {https://dataverse.harvard.edu/citation?persistentId=doi:10.7910/DVN/8SWHNO},
+  author = {{Settles, Burr}},
+  keywords = {Computer and Information Science, Social Sciences, Duolingo, Spaced Repetition, Second Language Acquisition, Machine Learning, Computational Linguistics},
+  title = {Data for the 2018 Duolingo Shared Task on Second Language Acquisition Modeling (SLAM)},
+  publisher = {Harvard Dataverse},
+  year = {2018}
+}
+"
+"duolingo_es_en__reverse_translate","Settles, Burr, 2018, ""Data for the 2018 Duolingo Shared Task on Second Language Acquisition Modeling (SLAM)"", https://doi.org/10.7910/DVN/8SWHNO, Harvard Dataverse, V4, https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8SWHNO","10.7910/DVN/8SWHNO","Modeling of second language acquisition, data from Spanish learners (who already speak English).","http://sharedtask.duolingo.com/2018.html#task-definition-data","@misc{https://doi.org/10.7910/dvn/8swhno,
+  doi = {10.7910/DVN/8SWHNO},
+  url = {https://dataverse.harvard.edu/citation?persistentId=doi:10.7910/DVN/8SWHNO},
+  author = {{Settles, Burr}},
+  keywords = {Computer and Information Science, Social Sciences, Duolingo, Spaced Repetition, Second Language Acquisition, Machine Learning, Computational Linguistics},
+  title = {Data for the 2018 Duolingo Shared Task on Second Language Acquisition Modeling (SLAM)},
+  publisher = {Harvard Dataverse},
+  year = {2018}
+}
+"
+"duolingo_es_en__reverse_tap","Settles, Burr, 2018, ""Data for the 2018 Duolingo Shared Task on Second Language Acquisition Modeling (SLAM)"", https://doi.org/10.7910/DVN/8SWHNO, Harvard Dataverse, V4, https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8SWHNO","10.7910/DVN/8SWHNO","Modeling of second language acquisition, data from Spanish learners (who already speak English).","http://sharedtask.duolingo.com/2018.html#task-definition-data","@misc{https://doi.org/10.7910/dvn/8swhno,
+  doi = {10.7910/DVN/8SWHNO},
+  url = {https://dataverse.harvard.edu/citation?persistentId=doi:10.7910/DVN/8SWHNO},
+  author = {{Settles, Burr}},
+  keywords = {Computer and Information Science, Social Sciences, Duolingo, Spaced Repetition, Second Language Acquisition, Machine Learning, Computational Linguistics},
+  title = {Data for the 2018 Duolingo Shared Task on Second Language Acquisition Modeling (SLAM)},
+  publisher = {Harvard Dataverse},
+  year = {2018}
+}
+"
+"duolingo_es_en__listen","Settles, Burr, 2018, ""Data for the 2018 Duolingo Shared Task on Second Language Acquisition Modeling (SLAM)"", https://doi.org/10.7910/DVN/8SWHNO, Harvard Dataverse, V4, https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8SWHNO","10.7910/DVN/8SWHNO","Modeling of second language acquisition, data from Spanish learners (who already speak English).","http://sharedtask.duolingo.com/2018.html#task-definition-data","@misc{https://doi.org/10.7910/dvn/8swhno,
+  doi = {10.7910/DVN/8SWHNO},
+  url = {https://dataverse.harvard.edu/citation?persistentId=doi:10.7910/DVN/8SWHNO},
+  author = {{Settles, Burr}},
+  keywords = {Computer and Information Science, Social Sciences, Duolingo, Spaced Repetition, Second Language Acquisition, Machine Learning, Computational Linguistics},
+  title = {Data for the 2018 Duolingo Shared Task on Second Language Acquisition Modeling (SLAM)},
+  publisher = {Harvard Dataverse},
+  year = {2018}
+}
+"
+"duolingo_fr_en__reverse_translate","Settles, Burr, 2018, ""Data for the 2018 Duolingo Shared Task on Second Language Acquisition Modeling (SLAM)"", https://doi.org/10.7910/DVN/8SWHNO, Harvard Dataverse, V4, https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8SWHNO","10.7910/DVN/8SWHNO","Modeling of second language acquisition, data from French learners (who already speak English).","http://sharedtask.duolingo.com/2018.html#task-definition-data","@misc{https://doi.org/10.7910/dvn/8swhno,
+  doi = {10.7910/DVN/8SWHNO},
+  url = {https://dataverse.harvard.edu/citation?persistentId=doi:10.7910/DVN/8SWHNO},
+  author = {{Settles, Burr}},
+  keywords = {Computer and Information Science, Social Sciences, Duolingo, Spaced Repetition, Second Language Acquisition, Machine Learning, Computational Linguistics},
+  title = {Data for the 2018 Duolingo Shared Task on Second Language Acquisition Modeling (SLAM)},
+  publisher = {Harvard Dataverse},
+  year = {2018}
+}
+"
+"duolingo_fr_en__reverse_tap","Settles, Burr, 2018, ""Data for the 2018 Duolingo Shared Task on Second Language Acquisition Modeling (SLAM)"", https://doi.org/10.7910/DVN/8SWHNO, Harvard Dataverse, V4, https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8SWHNO","10.7910/DVN/8SWHNO","Modeling of second language acquisition, data from French learners (who already speak English).","http://sharedtask.duolingo.com/2018.html#task-definition-data","@misc{https://doi.org/10.7910/dvn/8swhno,
+  doi = {10.7910/DVN/8SWHNO},
+  url = {https://dataverse.harvard.edu/citation?persistentId=doi:10.7910/DVN/8SWHNO},
+  author = {{Settles, Burr}},
+  keywords = {Computer and Information Science, Social Sciences, Duolingo, Spaced Repetition, Second Language Acquisition, Machine Learning, Computational Linguistics},
+  title = {Data for the 2018 Duolingo Shared Task on Second Language Acquisition Modeling (SLAM)},
+  publisher = {Harvard Dataverse},
+  year = {2018}
+}
+"
+"duolingo_fr_en__listen","Settles, Burr, 2018, ""Data for the 2018 Duolingo Shared Task on Second Language Acquisition Modeling (SLAM)"", https://doi.org/10.7910/DVN/8SWHNO, Harvard Dataverse, V4, https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8SWHNO","10.7910/DVN/8SWHNO","Modeling of second language acquisition, data from French learners (who already speak English).","http://sharedtask.duolingo.com/2018.html#task-definition-data","@misc{https://doi.org/10.7910/dvn/8swhno,
+  doi = {10.7910/DVN/8SWHNO},
+  url = {https://dataverse.harvard.edu/citation?persistentId=doi:10.7910/DVN/8SWHNO},
+  author = {{Settles, Burr}},
+  keywords = {Computer and Information Science, Social Sciences, Duolingo, Spaced Repetition, Second Language Acquisition, Machine Learning, Computational Linguistics},
+  title = {Data for the 2018 Duolingo Shared Task on Second Language Acquisition Modeling (SLAM)},
+  publisher = {Harvard Dataverse},
+  year = {2018}
+}
+"
+"imos_2018",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_2018,
+  title = {International Math Olympiad problems},
+  year = {2018},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_1984",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_1984,
+  title = {International Math Olympiad problems},
+  year = {1984},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_1985",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_1985,
+  title = {International Math Olympiad problems},
+  year = {1985},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_1986",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_1986,
+  title = {International Math Olympiad problems},
+  year = {1986},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_1987",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_1987,
+  title = {International Math Olympiad problems},
+  year = {1987},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_1988",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_1988,
+  title = {International Math Olympiad problems},
+  year = {1988},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_1989",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_1989,
+  title = {International Math Olympiad problems},
+  year = {1989},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_1990",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_1990,
+  title = {International Math Olympiad problems},
+  year = {1990},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_1991",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_1991,
+  title = {International Math Olympiad problems},
+  year = {1991},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_1992",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_1992,
+  title = {International Math Olympiad problems},
+  year = {1992},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_1993",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_1993,
+  title = {International Math Olympiad problems},
+  year = {1993},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_1994",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_1994,
+  title = {International Math Olympiad problems},
+  year = {1994},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_1995",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_1995,
+  title = {International Math Olympiad problems},
+  year = {1995},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_1996",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_1996,
+  title = {International Math Olympiad problems},
+  year = {1996},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_1997",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_1997,
+  title = {International Math Olympiad problems},
+  year = {1997},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_1998",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_1998,
+  title = {International Math Olympiad problems},
+  year = {1998},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_1999",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_1999,
+  title = {International Math Olympiad problems},
+  year = {1999},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_2000",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_2000,
+  title = {International Math Olympiad problems},
+  howpublished = {Kaggle Dataset},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_2001",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_2001,
+  title = {International Math Olympiad problems},
+  year = {2001},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_2002",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_2002,
+  title = {International Math Olympiad problems},
+  year = {2002},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_2003",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_2003,
+  title = {International Math Olympiad problems},
+  year = {2003},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_2004",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_2004,
+  title = {International Math Olympiad problems},
+  year = {2004},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_2005",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_2005,
+  title = {International Math Olympiad problems},
+  year = {2005},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_2006",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_2006,
+  title = {International Math Olympiad problems},
+  year = {2006},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_2007",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_2007,
+  title = {International Math Olympiad problems},
+  year = {2007},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_2008",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_2008,
+  title = {International Math Olympiad problems},
+  year = {2008},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_2009",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_2009,
+  title = {International Math Olympiad problems},
+  year = {2009},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_2010",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_2010,
+  title = {International Math Olympiad problems},
+  year = {2010},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_2011",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_2011,
+  title = {International Math Olympiad problems},
+  year = {2011},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_2012",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_2012,
+  title = {International Math Olympiad problems},
+  year = {2012},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_2013",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_2013,
+  title = {International Math Olympiad problems},
+  year = {2013},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_2014",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_2014,
+  title = {International Math Olympiad problems},
+  year = {2014},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_2015",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_2015,
+  title = {International Math Olympiad problems},
+  year = {2015},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_2016",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_2016,
+  title = {International Math Olympiad problems},
+  year = {2016},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"imos_2017",NA,NA,"International Math Olympiad problems","https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv","@misc{imos_2017,
+  title = {International Math Olympiad problems},
+  year = {2017},
+  url = {https://www.kaggle.com/datasets/luckyt/imo-scores?select=imo_results.csv},
+  note = {Accessed: 2023-10-01}
+}"
+"gilbert_meta_77","Cabell, S. Q., Kim, J. S., White, T. G., Gale, C. J., Edwards, A. A., Hwang, H., ... & Raines, R. M. (2024). Impact of a content-rich literacy curriculum on kindergarteners’ vocabulary, listening comprehension, and content knowledge. Journal of Educational Psychology.","10.1037/edu0000916","Clinical Evaluation of Language Fundamentals—Fourth Edition Sentence Structure subtest","https://ldbase.org/datasets/de4bf144-39ed-430c-862d-201009d3d33e"," @article{Cabell_2025, title={Impact of a content-rich literacy curriculum on kindergarteners’ vocabulary, listening comprehension, and content knowledge.}, volume={117}, ISSN={0022-0663}, url={http://dx.doi.org/10.1037/edu0000916}, DOI={10.1037/edu0000916}, number={2}, journal={Journal of Educational Psychology}, publisher={American Psychological Association (APA)}, author={Cabell, Sonia Q. and Kim, James S. and White, Thomas G. and Gale, Charles J. and Edwards, Ashley A. and Hwang, HyeJin and Petscher, Yaacov and Raines, Rhonda M.}, year={2025}, month=feb, pages={153–175} }
+"
+"gilbert_meta_78","Cabell, S. Q., Kim, J. S., White, T. G., Gale, C. J., Edwards, A. A., Hwang, H., ... & Raines, R. M. (2024). Impact of a content-rich literacy curriculum on kindergarteners’ vocabulary, listening comprehension, and content knowledge. Journal of Educational Psychology.","10.1037/edu0000916","Peabody Picture Vocabulary Test—Fourth Edition","https://ldbase.org/datasets/de4bf144-39ed-430c-862d-201009d3d33e"," @article{Cabell_2025, title={Impact of a content-rich literacy curriculum on kindergarteners’ vocabulary, listening comprehension, and content knowledge.}, volume={117}, ISSN={0022-0663}, url={http://dx.doi.org/10.1037/edu0000916}, DOI={10.1037/edu0000916}, number={2}, journal={Journal of Educational Psychology}, publisher={American Psychological Association (APA)}, author={Cabell, Sonia Q. and Kim, James S. and White, Thomas G. and Gale, Charles J. and Edwards, Ashley A. and Hwang, HyeJin and Petscher, Yaacov and Raines, Rhonda M.}, year={2025}, month=feb, pages={153–175} }
+"
+"gilbert_meta_79","Cabell, S. Q., Kim, J. S., White, T. G., Gale, C. J., Edwards, A. A., Hwang, H., ... & Raines, R. M. (2024). Impact of a content-rich literacy curriculum on kindergarteners’ vocabulary, listening comprehension, and content knowledge. Journal of Educational Psychology.","10.1037/edu0000916","Test of Narrative Language","https://ldbase.org/datasets/de4bf144-39ed-430c-862d-201009d3d33e"," @article{Cabell_2025, title={Impact of a content-rich literacy curriculum on kindergarteners’ vocabulary, listening comprehension, and content knowledge.}, volume={117}, ISSN={0022-0663}, url={http://dx.doi.org/10.1037/edu0000916}, DOI={10.1037/edu0000916}, number={2}, journal={Journal of Educational Psychology}, publisher={American Psychological Association (APA)}, author={Cabell, Sonia Q. and Kim, James S. and White, Thomas G. and Gale, Charles J. and Edwards, Ashley A. and Hwang, HyeJin and Petscher, Yaacov and Raines, Rhonda M.}, year={2025}, month=feb, pages={153–175} }
+"
+"gilbert_meta_80","Cabell, S. Q., Kim, J. S., White, T. G., Gale, C. J., Edwards, A. A., Hwang, H., ... & Raines, R. M. (2024). Impact of a content-rich literacy curriculum on kindergarteners’ vocabulary, listening comprehension, and content knowledge. Journal of Educational Psychology.","10.1037/edu0000916","Woodcock–Johnson III Tests of Achievement Picture Vocabulary subtest","https://ldbase.org/datasets/de4bf144-39ed-430c-862d-201009d3d33e"," @article{Cabell_2025, title={Impact of a content-rich literacy curriculum on kindergarteners’ vocabulary, listening comprehension, and content knowledge.}, volume={117}, ISSN={0022-0663}, url={http://dx.doi.org/10.1037/edu0000916}, DOI={10.1037/edu0000916}, number={2}, journal={Journal of Educational Psychology}, publisher={American Psychological Association (APA)}, author={Cabell, Sonia Q. and Kim, James S. and White, Thomas G. and Gale, Charles J. and Edwards, Ashley A. and Hwang, HyeJin and Petscher, Yaacov and Raines, Rhonda M.}, year={2025}, month=feb, pages={153–175} }
+"
+"gilbert_meta_81","Cabell, S. Q., Kim, J. S., White, T. G., Gale, C. J., Edwards, A. A., Hwang, H., ... & Raines, R. M. (2024). Impact of a content-rich literacy curriculum on kindergarteners’ vocabulary, listening comprehension, and content knowledge. Journal of Educational Psychology.","10.1037/edu0000916","Woodcock–Johnson Tests of Achievement Science subtest","https://ldbase.org/datasets/de4bf144-39ed-430c-862d-201009d3d33e"," @article{Cabell_2025, title={Impact of a content-rich literacy curriculum on kindergarteners’ vocabulary, listening comprehension, and content knowledge.}, volume={117}, ISSN={0022-0663}, url={http://dx.doi.org/10.1037/edu0000916}, DOI={10.1037/edu0000916}, number={2}, journal={Journal of Educational Psychology}, publisher={American Psychological Association (APA)}, author={Cabell, Sonia Q. and Kim, James S. and White, Thomas G. and Gale, Charles J. and Edwards, Ashley A. and Hwang, HyeJin and Petscher, Yaacov and Raines, Rhonda M.}, year={2025}, month=feb, pages={153–175} }
+"
+"gilbert_meta_82","Cabell, S. Q., Kim, J. S., White, T. G., Gale, C. J., Edwards, A. A., Hwang, H., ... & Raines, R. M. (2024). Impact of a content-rich literacy curriculum on kindergarteners’ vocabulary, listening comprehension, and content knowledge. Journal of Educational Psychology.","10.1037/edu0000916","Woodcock–Johnson Tests of Achievement Social Studies subtest","https://ldbase.org/datasets/de4bf144-39ed-430c-862d-201009d3d33e"," @article{Cabell_2025, title={Impact of a content-rich literacy curriculum on kindergarteners’ vocabulary, listening comprehension, and content knowledge.}, volume={117}, ISSN={0022-0663}, url={http://dx.doi.org/10.1037/edu0000916}, DOI={10.1037/edu0000916}, number={2}, journal={Journal of Educational Psychology}, publisher={American Psychological Association (APA)}, author={Cabell, Sonia Q. and Kim, James S. and White, Thomas G. and Gale, Charles J. and Edwards, Ashley A. and Hwang, HyeJin and Petscher, Yaacov and Raines, Rhonda M.}, year={2025}, month=feb, pages={153–175} }
+"
+"evpromisi_stone_2021_cdiag","Stone, Arthur A.; Broderick, Joan E., 2021, ""Ecological Validity of PROMIS Instruments"", https://doi.org/10.7910/DVN/G4E2SR, Harvard Dataverse, V1
+
+Christodoulou C, Schneider S, Junghaenel DU, Broderick JE, Stone AA. Measuring daily fatigue using a brief scale adapted from the Patient-Reported Outcomes Measurement Information System (PROMIS ®). Qual Life Res. 2014;23(4):1245-1253. doi:10.1007/s11136-013-0553-z
+","10.1007/s11136-013-0553-z","PROMIS fatigue","https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/G4E2SR"," @article{Christodoulou_2013, title={Measuring daily fatigue using a brief scale adapted from the Patient-Reported Outcomes Measurement Information System (PROMIS®)}, volume={23}, ISSN={1573-2649}, url={http://dx.doi.org/10.1007/s11136-013-0553-z}, DOI={10.1007/s11136-013-0553-z}, number={4}, journal={Quality of Life Research}, publisher={Springer Science and Business Media LLC}, author={Christodoulou, Christopher and Schneider, Stefan and Junghaenel, Doerte U. and Broderick, Joan E. and Stone, Arthur A.}, year={2013}, month=oct, pages={1245–1253} }
+"
+"evpromisi_stone_2021_ddeddep","Stone, Arthur A.; Broderick, Joan E., 2021, ""Ecological Validity of PROMIS Instruments"", https://doi.org/10.7910/DVN/G4E2SR, Harvard Dataverse, V1
+
+Christodoulou C, Schneider S, Junghaenel DU, Broderick JE, Stone AA. Measuring daily fatigue using a brief scale adapted from the Patient-Reported Outcomes Measurement Information System (PROMIS ®). Qual Life Res. 2014;23(4):1245-1253. doi:10.1007/s11136-013-0553-z
+","10.1007/s11136-013-0553-z","PROMIS Emotional Distress-Depression","https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/G4E2SR"," @article{Christodoulou_2013, title={Measuring daily fatigue using a brief scale adapted from the Patient-Reported Outcomes Measurement Information System (PROMIS®)}, volume={23}, ISSN={1573-2649}, url={http://dx.doi.org/10.1007/s11136-013-0553-z}, DOI={10.1007/s11136-013-0553-z}, number={4}, journal={Quality of Life Research}, publisher={Springer Science and Business Media LLC}, author={Christodoulou, Christopher and Schneider, Stefan and Junghaenel, Doerte U. and Broderick, Joan E. and Stone, Arthur A.}, year={2013}, month=oct, pages={1245–1253} }
+"
+"evpromisi_stone_2021_global","Stone, Arthur A.; Broderick, Joan E., 2021, ""Ecological Validity of PROMIS Instruments"", https://doi.org/10.7910/DVN/G4E2SR, Harvard Dataverse, V1
+
+Christodoulou C, Schneider S, Junghaenel DU, Broderick JE, Stone AA. Measuring daily fatigue using a brief scale adapted from the Patient-Reported Outcomes Measurement Information System (PROMIS ®). Qual Life Res. 2014;23(4):1245-1253. doi:10.1007/s11136-013-0553-z
+","10.1007/s11136-013-0553-z","PROMIS Global health scale","https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/G4E2SR"," @article{Christodoulou_2013, title={Measuring daily fatigue using a brief scale adapted from the Patient-Reported Outcomes Measurement Information System (PROMIS®)}, volume={23}, ISSN={1573-2649}, url={http://dx.doi.org/10.1007/s11136-013-0553-z}, DOI={10.1007/s11136-013-0553-z}, number={4}, journal={Quality of Life Research}, publisher={Springer Science and Business Media LLC}, author={Christodoulou, Christopher and Schneider, Stefan and Junghaenel, Doerte U. and Broderick, Joan E. and Stone, Arthur A.}, year={2013}, month=oct, pages={1245–1253} }
+"
+"evpromisi_stone_2021_ddedanx","Stone, Arthur A.; Broderick, Joan E., 2021, ""Ecological Validity of PROMIS Instruments"", https://doi.org/10.7910/DVN/G4E2SR, Harvard Dataverse, V1
+
+Christodoulou C, Schneider S, Junghaenel DU, Broderick JE, Stone AA. Measuring daily fatigue using a brief scale adapted from the Patient-Reported Outcomes Measurement Information System (PROMIS ®). Qual Life Res. 2014;23(4):1245-1253. doi:10.1007/s11136-013-0553-z
+","10.1007/s11136-013-0553-z","PROMIS Emotional Distress-Anxiety","https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/G4E2SR"," @article{Christodoulou_2013, title={Measuring daily fatigue using a brief scale adapted from the Patient-Reported Outcomes Measurement Information System (PROMIS®)}, volume={23}, ISSN={1573-2649}, url={http://dx.doi.org/10.1007/s11136-013-0553-z}, DOI={10.1007/s11136-013-0553-z}, number={4}, journal={Quality of Life Research}, publisher={Springer Science and Business Media LLC}, author={Christodoulou, Christopher and Schneider, Stefan and Junghaenel, Doerte U. and Broderick, Joan E. and Stone, Arthur A.}, year={2013}, month=oct, pages={1245–1253} }
+"
+"evpromisi_stone_2021_ddpainin","Stone, Arthur A.; Broderick, Joan E., 2021, ""Ecological Validity of PROMIS Instruments"", https://doi.org/10.7910/DVN/G4E2SR, Harvard Dataverse, V1
+
+Christodoulou C, Schneider S, Junghaenel DU, Broderick JE, Stone AA. Measuring daily fatigue using a brief scale adapted from the Patient-Reported Outcomes Measurement Information System (PROMIS ®). Qual Life Res. 2014;23(4):1245-1253. doi:10.1007/s11136-013-0553-z
+","10.1007/s11136-013-0553-z","PROMIS Pain Intensity","https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/G4E2SR"," @article{Christodoulou_2013, title={Measuring daily fatigue using a brief scale adapted from the Patient-Reported Outcomes Measurement Information System (PROMIS®)}, volume={23}, ISSN={1573-2649}, url={http://dx.doi.org/10.1007/s11136-013-0553-z}, DOI={10.1007/s11136-013-0553-z}, number={4}, journal={Quality of Life Research}, publisher={Springer Science and Business Media LLC}, author={Christodoulou, Christopher and Schneider, Stefan and Junghaenel, Doerte U. and Broderick, Joan E. and Stone, Arthur A.}, year={2013}, month=oct, pages={1245–1253} }
+"
